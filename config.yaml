@@ -1,0 +1,48 @@
+# Edit this file to control what opp-radar looks for.
+# No code changes needed for day-to-day tuning.
+
+# Keywords searched against Devpost's live hackathon listings.
+# Devpost covers most Web3/AI/open hackathons (incl. Aleo, Starknet-adjacent, Gemma, Claude, etc.)
+keywords:
+  - AI agents
+  - LLM
+  - privacy
+  - zk
+  - Starknet
+  - Aleo
+  - web3 payments
+  - open source
+  - fellowship
+
+# Pages to watch for changes (new cohort opens, deadline updates, results posted).
+# Add any fellowship/accelerator/hackathon page here — first run just records
+# a baseline, so add new ones anytime and they'll start alerting from the next run.
+watch_urls:
+  - name: "Proof (Starknet accelerator)"
+    url: "https://www.proof.xyz/"
+  - name: "OrangeDAO"
+    url: "https://www.orangedao.xyz/"
+  - name: "PIBBSS"
+    url: "https://pibbss.ai/"
+  - name: "Devpost - Web3/AI trending"
+    url: "https://devpost.com/hackathons?status[]=upcoming&order_by=recently-added"
+  # Add more, e.g. specific fellowship program pages you're tracking:
+  # - name: "Naitive Institute"
+  #   url: "https://example.com/naitive"
+
+# RSS/Atom feeds for low-cost opportunity discovery.
+# These are verified public feeds at the time of editing.
+max_items_per_run: 8
+rss_feeds:
+  - name: "Google News - fellowship opportunity startup"
+    url: "https://news.google.com/rss/search?q=fellowship+opportunity+startup&hl=en-US&gl=US&ceid=US:en"
+  - name: "Google News - accelerator applications startup"
+    url: "https://news.google.com/rss/search?q=accelerator+applications+startup&hl=en-US&gl=US&ceid=US:en"
+  - name: "Google News - AI/ML fellowships"
+    url: "https://news.google.com/rss/search?q=%22AI+ML%22+fellowship&hl=en-US&gl=US&ceid=US:en"
+  - name: "Google News - web3 hackathon grants"
+    url: "https://news.google.com/rss/search?q=web3+hackathon+grant&hl=en-US&gl=US&ceid=US:en"
+  - name: "Google News - open source fellowships"
+    url: "https://news.google.com/rss/search?q=%22open+source%22+fellowship&hl=en-US&gl=US&ceid=US:en"
+  - name: "Google News - research traineeships"
+    url: "https://news.google.com/rss/search?q=research+traineeship&hl=en-US&gl=US&ceid=US:en"
