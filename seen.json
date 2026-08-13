@@ -66,13 +66,14 @@
     "30975",
     "30982",
     "30986",
-    "30981"
+    "30981",
+    "30967"
   ],
   "page_hashes": {
-    "https://www.proof.xyz/": "e444d792a0af0d0083fd893d65a9c8de1acbcaf4e711808cb3fa1d3112d7066d",
+    "https://www.proof.xyz/": "8e6e69690b4dcfaf0c0375c700a1b098b077be1430a92f4b117833dadf9ec806",
     "https://www.orangedao.xyz/": "7dc3537e09bf6d52062e11934275b6bd7a3161d57106a0c81ae3f6901fc24342",
-    "https://pibbss.ai/": "859fbde20d39e0c2c507fdb03de32fbeeb3e0827c686a12a2a742d499adb9d37",
-    "https://devpost.com/hackathons?status[]=upcoming&order_by=recently-added": "9ba686b9730175dee62915acd1e18001db15d730d81c7103ca2757efccb3894d"
+    "https://pibbss.ai/": "28c261d474504a038681e455e59144267f51e127a7ca4b56f7bf56f42e30b93d",
+    "https://devpost.com/hackathons?status[]=upcoming&order_by=recently-added": "a61ac2c63033302f41900330fda6a030ac82d68f4eea3f7f70154a7c7f688ced"
   },
   "rss_item_ids": [
     "676f82cd003e900424e4748250c3ba162dc16c77bfd1181587f085c01a3752ad",
@@ -758,6 +759,15 @@
     "6a83aed3527ce46c7a534ebe4efd23ae8e9f17d7b007b70f9f1a2cedd70cb731",
     "e85aa6eb7f2b6d151440235906cd3e36cf7f19b59aefa79eb2ecc200a4aa2efc",
     "7ac1ad8c18d09762d7be7324455d9d7a5f068d35a72e4979b3fece94689df322",
-    "115be4913dacb51f59eaeeb323281d43be38bb38f7e66358e872a056da4b7b14"
+    "115be4913dacb51f59eaeeb323281d43be38bb38f7e66358e872a056da4b7b14",
+    "8546e64bfa8f6a8a4b4b7e7dd5f2b788f3b3411ef33ba4cb6fc449f910d356e4",
+    "c7ff506a0aafe506e211872c0d3ca1ad2ea813e098740954657406e9d9edd88e",
+    "ed89313a36bf14cb6da2f166e57b9ff10667494c8046682413f624e60c33e124",
+    "680720139e800cc90543ce56b6b3a422be07e67f783d083e4a5733ed24ef953a",
+    "f0d5458b242dc512d88591567dd553285b95259d0df7a40938fda44bc586e001",
+    "08ec24a7acd7ff6ada168adeee6e20c78ae4879831ab687f504d13a8871c96e3",
+    "355f6420afda34f68108411549e51e237ac6b2b7a004453fc4f22a0dd54aab0b",
+    "88c65d1ac3760dd6bbd96280b5ff82d1776fc1f1516c7372ad4bc83c9a5d6b20",
+    "c11f6418903c355b9eca7cedc6dd5119af185b22f7f5d2db54dd9358b536da8d"
   ]
 }
