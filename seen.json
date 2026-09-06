@@ -107,13 +107,19 @@
     "31211",
     "31210",
     "31231",
-    "30942"
+    "30942",
+    "31234",
+    "31120",
+    "31263",
+    "31249",
+    "31196",
+    "31203"
   ],
   "page_hashes": {
-    "https://www.proof.xyz/": "163c368b844edf62a0d0311934227c3d9f59b26fd7ec8e3b5c47bcdd2ceab4e4",
+    "https://www.proof.xyz/": "6f746305db73959870fc455776edf2576ccf84b0f03a576bb8172cf5af1ac985",
     "https://www.orangedao.xyz/": "dd11b211d9c54add81202a0e31aea911893792f763ea7d89847664ebe29684c5",
     "https://pibbss.ai/": "91707ee248bacbc72283ebe08659be460d2ded3edf4a0e8296bca40a056df852",
-    "https://devpost.com/hackathons?status[]=upcoming&order_by=recently-added": "bc3f13e1267a20c609f6fc570014939a12cb9e4f50528d506a88403188f8f454"
+    "https://devpost.com/hackathons?status[]=upcoming&order_by=recently-added": "9cbdd33be111b2e4af17ca36b3e25d0ada231bdb5537232e57229f6805d1d6e2"
   },
   "rss_item_ids": [
     "676f82cd003e900424e4748250c3ba162dc16c77bfd1181587f085c01a3752ad",
