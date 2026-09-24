@@ -1,6 +1,6 @@
-# Opp Radar
+# Automate-Arti
 
-Opp Radar is a zero-cost opportunity tracker that watches for new hackathons,
+Automate-Arti is a zero-cost opportunity tracker that watches for new hackathons,
 fellowships, accelerators, and related updates. It checks Devpost listings,
 monitors configured web pages for content changes, and sends alerts through
 Telegram. Optional Gmail and Google Calendar integrations are included for
