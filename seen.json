@@ -164,10 +164,10 @@
     "31311"
   ],
   "page_hashes": {
-    "https://www.proof.xyz/": "3ff9a8a6aa9a903e4a254596eacacf45db7c8092c23801dfc6df5c425ca180b7",
+    "https://www.proof.xyz/": "45e06001946ede930ca1cbc371cea1ec160446ad7c04f5d21a122389bf87282b",
     "https://www.orangedao.xyz/": "dd11b211d9c54add81202a0e31aea911893792f763ea7d89847664ebe29684c5",
-    "https://pibbss.ai/": "34262303bacc81f6cfa7a13a1b0f5193bcfc9202a7f4f7498a7da76418a18857",
-    "https://devpost.com/hackathons?status[]=upcoming&order_by=recently-added": "c4bc0f294f39fa142fb934e4348a7fd13171488de0dde2c22f78d77e6afe1aef"
+    "https://pibbss.ai/": "498c97644925c8e878eee13a81790092183d1ebd303e59c70bb58a68705662d2",
+    "https://devpost.com/hackathons?status[]=upcoming&order_by=recently-added": "b296b519b3a0c8a7aadbb51401389da3527162b32df7237135c72e63faad9225"
   },
   "rss_item_ids": [
     "676f82cd003e900424e4748250c3ba162dc16c77bfd1181587f085c01a3752ad",
@@ -1255,6 +1255,12 @@
     "0304b64b1af2d6169a85346fda3906993111df499263a787b5eea2ef1da0e525",
     "81ed2c74f0bc10c38413538782cd692d3b1245e3d112e0da288fb7ca605fee36",
     "6cd4b3fb506a6077ece6de307d395b67106767d273dab51a0ead8aea32c5b3fc",
-    "84026bfc433a427df51b3ee59f58b8dcd87521e07d50aa5aeeffcfd7e1f171c1"
+    "84026bfc433a427df51b3ee59f58b8dcd87521e07d50aa5aeeffcfd7e1f171c1",
+    "ba7052c1781e70e196497c4a8a67006fc9c15a6a32416dfe1d66b2743d5ab3d0",
+    "1db0e8197ecf618b304d0c760f6f89375ba8b9203417507da824fd0fd09d9a2b",
+    "7c5875802b2b9b6f17eb01267d11799723942543e682e5a0264e32b709ebf89f",
+    "4c790407669435b3782a6aae6d1e6e6818af5ed1fe2983b7277cdd95fb2d01f9",
+    "96345ab56c85bebf75de87398b4e79438f643e1f8da3d4fcdaf7e935b6838201",
+    "f362ab34e8ffe0b3f4e2005795b2a7a8912d8eecc639c3e93adeceffcadb0c52"
   ]
 }
