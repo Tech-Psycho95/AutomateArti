@@ -317,13 +317,16 @@
     "32124",
     "32158",
     "31886",
-    "32155"
+    "32155",
+    "32183",
+    "32145",
+    "32104"
   ],
   "page_hashes": {
-    "https://www.proof.xyz/": "208810a0486b47f0ffa6186ce81fd1f58cccfa50b5580cf70fa6ff8b04e5e259",
+    "https://www.proof.xyz/": "dec484ed3b019ac4721f0e3f11264eaea491a12e9814777ab5fbf58745b41820",
     "https://www.orangedao.xyz/": "dd11b211d9c54add81202a0e31aea911893792f763ea7d89847664ebe29684c5",
     "https://pibbss.ai/": "7508c3baed52707f1ff16a8463635d5d0788885d5017960d19f9bd03015e140d",
-    "https://devpost.com/hackathons?status[]=upcoming&order_by=recently-added": "1e9fd12122fd32916f7f85fbaf8dab8f03885a7321bb71bb4a5df7057180e86a"
+    "https://devpost.com/hackathons?status[]=upcoming&order_by=recently-added": "7a6e071b4798a98aafbebed4d1ab7cc7b141ee24c47f6d49683594afe6a4b416"
   },
   "rss_item_ids": [
     "676f82cd003e900424e4748250c3ba162dc16c77bfd1181587f085c01a3752ad",
@@ -1732,6 +1735,10 @@
     "aabce4b388e2fb83d904dab2fad129eb997a631996a195295596b4408012f9b2",
     "870cf7401a81f13652160001fb91af976d46fb839f45986e372da9c8789e71e3",
     "e57ef70dc332261a9a32a69f925de94a32a638d4a6f02a092444df2dc83f3147",
-    "8dfd2363422461a8355c68507c25844a685a1ab5ada6872da74f24f7dd55222e"
+    "8dfd2363422461a8355c68507c25844a685a1ab5ada6872da74f24f7dd55222e",
+    "a5af3d4862ab8fec666207085feed46243d4ca175b1e45b8198209d2543b81c5",
+    "c4a7723f6a565fb4db11f967e9238d1b002bc7485fdd8a46078a492839405b2c",
+    "61d6eaef7dd6a5d68eeed60238c575f56dac38a11544a3056ad9cd5d3bf1f539",
+    "6349265753f0e98ad7107360e72be344f1b4d48c21e865c447dc7aaad2cea22f"
   ]
 }
